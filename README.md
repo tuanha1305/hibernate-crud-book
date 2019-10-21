@@ -22,6 +22,6 @@ Change here:
 <property name="connection.password"></property>
 ...
 ```
-Read tutorial [Tìm hiểu Hibernate và tạo ra 1 ứng dụng quản lý sách đơn giản](2019/10/17/tim-hieu-hibernate-va-tao-ra-1-ung-dung-quan-ly-sach.html)
+Read tutorial [Tìm hiểu Hibernate và tạo ra 1 ứng dụng quản lý sách đơn giản](https://tuanictu97.github.io/2019/10/17/tim-hieu-hibernate-va-tao-ra-1-ung-dung-quan-ly-sach.html)
 
 Thanks for watching !
